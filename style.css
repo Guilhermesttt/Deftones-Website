@@ -1,0 +1,196 @@
+/* Fonte customizada */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #aaa;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a img {
+    border: none;
+    margin-top: 9.8%;
+    transition: filter 0.3s ease;
+}
+
+a img:hover {
+    filter: brightness(0.5);
+}
+
+nav {
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+}
+
+nav ul {
+    display: flex;
+    font-size: 16px;
+    list-style: none;
+    gap: clamp(10px, 10vw, 75px);
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #aaa;
+    text-decoration: underline;
+}
+
+a img {
+    border: none;
+    margin-top: 9.8%;
+}
+
+div {
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100rem;
+    align-items: center;
+    margin-top: 90px;
+}
+
+.email-container label {
+    color: #aaa;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    position: relative;
+}
+
+input[type="email"] {
+    flex: 1;
+    background: none;
+    border: none;
+    outline: none;
+    padding: 2.5px ;
+    letter-spacing: 10px;
+    color: #aaa;
+    font-size: 30px;
+    border-bottom: 1px solid #aaa; /* Linha abaixo do email */
+}
+
+button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+    white-space: nowrap;
+    letter-spacing: 10px;
+}
+
+button:hover {
+    color: #aaa;
+}
+
+.terms {
+    color: white;
+    font-size: 17px;
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: -47.5%;
+}
+
+
+
+.terms:hover {
+    text-decoration: none;
+    color: #aaa;
+}
+
+.terms-description {
+    color: #FFF;
+    font-size: 20px;
+    margin-left: -3%;
+}
+
+.terms-description a {
+    color: #FFF;
+    text-decoration: underline;
+}
+
+
+#gif {
+    padding-top: 5%;
+    margin-block: 50px;
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding-bottom: 30px; /* Ajuste a distância desejada */
+    color: white;
+}
+
+div h2 {
+    margin-top: 80px;
+    margin-left: 10%;
+    position: absolute;
+    left: 0; 
+    font-weight: 300;
+    font-size: 40px;
+    color: #fff;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    flex-grow: 1; 
+    text-align: center; 
+    margin-top: 20%;
+    font-weight: 300;
+}
+
+#footer_img {
+    margin-bottom: 50px; 
+    width: 20%;
+}
+
+.footer-content h3{
+    font-weight: 100;
+    letter-spacing: 4px;
+    margin-bottom: 30px;
+}
+
+
+
+
