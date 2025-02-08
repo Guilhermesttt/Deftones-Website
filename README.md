@@ -15,8 +15,7 @@ Sendo fã da banda Deftones e buscando aprimorar meu portfólio, decidi recriar 
 
 - 🎨 **HTML5** – Estrutura do site  
 - 🎨 **CSS3** – Estilização e layout responsivo (Flexbox, Grid, animações)  
-- 🎮 **JavaScript (Vanilla JS)** – Interatividade e efeitos dinâmicos  
-- 🌀 **GSAP** (caso tenha usado) – Para animações suaves  
+- 🎮 **JavaScript (Vanilla JS)** – Interatividade e efeitos dinâmicos 
 
 ## 🎨 Funcionalidades e Destaques
 
