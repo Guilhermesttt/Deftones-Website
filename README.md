@@ -1,6 +1,11 @@
-# [🎸 Deftones Fan Website (Clone)](https://guilhermesttt.github.io/Deftones-Website/#)
+# 🎸 Deftones Fan Website (Clone)
 
 Este é um projeto pessoal onde recriei um site inspirado no oficial da banda **Deftones**. O objetivo foi demonstrar minhas habilidades em desenvolvimento web, criando um layout dinâmico e interativo utilizando **HTML, CSS e JavaScript**.
+
+## 🌐 Acesse os Sites  
+
+<a href="https://guilhermesttt.github.io/Deftones-Website/#" target="_blank">🔗 Meu Site Clone</a>  
+<a href="https://www.deftones.com/" target="_blank">🔗 Site Oficial da Banda</a>  
 
 ## 🔥 Motivação
 
