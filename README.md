@@ -32,7 +32,6 @@ Durante o desenvolvimento deste projeto, pude reforçar conceitos importantes co
 ✅ Estruturação semântica de HTML  
 ✅ Estilização avançada com CSS  
 ✅ Implementação de animações para melhorar a experiência do usuário  
-✅ Manipulação do DOM com JavaScript  
 
 ## 🚀 Próximos Passos
 
